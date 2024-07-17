@@ -1,4 +1,5 @@
-
+import React from "react";
+import ReactDOM from "react-dom/client";
 // js code
 // const heading = document.createElement("h1");
 // heading.innerHTML =  "Hello World!";
@@ -61,7 +62,7 @@ console.log(heading);
 // )
 // )
 
-// const root = ReactDOM.createRoot(document.getElementById("root"));
+// const root = ReactDOM.createRoot(document.getElementById("root"));https://github.com/KrishnaTripathy/Namaste-React-Notes.git
 // root.render(parent); // parent is a object
 
 
@@ -87,7 +88,7 @@ console.log(heading);
 const parent = React.createElement(
     "div",{id:"parent"},[
     React.createElement("div",{ id: "child" },
-[React.createElement("h1",{},"I'M h1 tag"),
+[React.createElement("h1",{},"I'M h1"),
 React.createElement("h2",{},"I'M h2 tag")]
 ),
 React.createElement("div",{ id: "child2" },

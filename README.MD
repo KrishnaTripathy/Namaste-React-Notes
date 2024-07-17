@@ -1,0 +1,20 @@
+#Parcel
+-Dev Build
+-Local Server
+-refreshing your page also - HMR : Hot Module Replacement
+-fole watching algorithim - written in c++
+-Caching - Faster Builds decreases the time
+-what is parcel do?
+-helps in image optimization
+-Minification
+-Bundling
+-compressing the file
+-consistent Hashing
+-Code Splitting
+-Differential Bundling - support older browsers
+-Diagnostic
+-Error Handling
+-host your app in https
+-read parcel documentation
+-Tree Shaking - remove unused code for you
+-it has different build for dev and production bundles
